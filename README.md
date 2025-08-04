@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Doc-Code
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Doc-Code/Doc-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
+  <img alt="GitHub contributions snake" src="./dist/github-snake.svg" />
+</picture>
